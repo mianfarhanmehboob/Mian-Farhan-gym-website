@@ -17,8 +17,6 @@ Here are the main benefits of using a design system for CSS:
 - Decreases time spent on maintaining the code base
 - Focuses teams on experience and implementation, etc.
 
-## Project View
 
-To see a live preview of a website, click on the below link:
 
-[**Click here**](https://al-basit.github.io/Mian Farhan-a-gym-website/)
+
